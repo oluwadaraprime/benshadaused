@@ -7041,7 +7041,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   font-weight: 400;
 }
 .feature_demo2 .z_apps .item__app.bg_apple {
-  background-color: #6f5fa6;
+  background-color: #fc6a3f;
 }
 .feature_demo2 .z_apps .item__app.bg_apple:hover {
   -webkit-box-shadow: 0px 45px 40px -20px rgba(111, 95, 166, 0.25) !important;
@@ -19878,7 +19878,7 @@ html:not(.no-js) [data-aos="fade-up"] {
   transition: 0.3s !important;
 }
 .footer_short .social--media .so-link:hover {
-  background-color: #165df5;
+  background-color: #fc6a3f;
 }
 .footer_short .social--media .so-link:hover .tio {
   color: #ffffff;
