@@ -619,7 +619,7 @@ img {
 -----------------------------*/
 .app-mobile-btn .btn {
   border-radius: 12px;
-  background-color: #3875f7;
+  background-color: #f77538;
   padding: 8px 26px;
 }
 .app-mobile-btn .btn .txt {
@@ -6862,7 +6862,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   align-items: center;
 }
 .install_app .list-group .list-group-item .tio {
-  color: #6bb0f8;
+  color: #fc7b35;
   font-size: 20px;
 }
 .install_app .app_smartphone .icon {
