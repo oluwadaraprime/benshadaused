@@ -2240,10 +2240,10 @@ img {
   color: #0b2238 !important;
 }
 .active-dark .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
-  color: #0b2238 !important;
+  color: #ff763b !important;
 }
 .active-dark .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item:hover {
-  color: #0b2238 !important;
+  color: #ff763b !important;
 }
 .active-dark .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item.active {
   background-color: #0b2238 !important;
@@ -2271,13 +2271,13 @@ img {
 }
 
 .active-blue .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.active {
-  color: #165df5 !important;
+  color: #ff763b !important;
 }
 .active-blue .navbar .navbar-collapse .navbar-nav .nav-item .nav-link:hover {
-  color: #165df5 !important;
+  color: #ff763b !important;
 }
 .active-blue .navbar .navbar-collapse .navbar-nav .nav-item .nav-link.selected {
-  color: #165df5 !important;
+  color: #ff763b !important;
 }
 .active-blue .navbar .navbar-collapse .navbar-nav .nav-item .dropdown_menu_nav .item_colume .nav_meun .dropdown-item:hover {
   color: #165df5 !important;
@@ -3193,7 +3193,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo2 .btn_sm_primary {
   color: #165df5;
 }
 header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
-  border: 1px solid #edeef1;
+  border: 1px solid #ff7038;
 }
 @media (max-width: 991px) {
   header {
@@ -4125,7 +4125,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   overflow: hidden;
 }
 .banner_demo8 .subscribe_phone .btn_app {
-  background-color: rgba(11, 34, 56, 0.13);
+  background-color: #ff7038;
   border-radius: 8px;
   color: #ffffff;
   width: 100%;
@@ -9705,7 +9705,7 @@ software_web
   width: 13px;
   height: 15px;
   border-radius: 4px;
-  background-color: #ffe7aa;
+  background-color: #ff7e3d;
   display: inline-block;
   position: absolute;
   left: -5px;
@@ -10550,7 +10550,7 @@ software_web
   transition: 0.3s !important;
 }
 .contact_six .information_agency .item_data .tel:hover {
-  color: #f93542;
+  color: #ff763b;
 }
 .contact_six .scoail__media {
   margin-top: 40px;
@@ -19903,7 +19903,7 @@ html:not(.no-js) [data-aos="fade-up"] {
   }
 }
 .footer_short .other--links a:hover {
-  color: #0b2238;
+  color: #ff763b;
 }
 .footer_short .opyright {
   margin-top: 1.875rem;
