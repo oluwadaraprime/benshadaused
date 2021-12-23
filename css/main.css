@@ -4191,13 +4191,13 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   width: max-content;
 }
 .banner_title h1 {
-  font-size: 3.125rem;
+  font-size: 2.725rem;
   font-weight: 700;
   margin-bottom: 1.875rem;
-  margin-top: 1.875rem;
+  margin-top: 12px;
 }
 .banner_title p {
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: 400;
   margin-bottom: 1.875rem;
 }
